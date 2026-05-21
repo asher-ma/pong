@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQEABQAAACqqqqqqqqqqqqqAACqqqqqqqqqqqqqAACqqqqqqqqqqqqqAACqqqqqqqqqqqqqAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "paddleImg"
+    },
+    "image1": {
+        "data": "hwQHAAcAAAAAMwMAMDMzADMzMwMzMzMDMzMzAzAzMwAAMwMA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ballImg"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
